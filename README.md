@@ -28,8 +28,8 @@ Annotations include bounding boxes for each image and have the same name as the 
 
 ### Step 1: Clone the Repo, Install dependencies
 ```bash
-git clone https://github.com/NanoNets/nanonets-id-card-digitization-sample.git
-cd nanonets-id-card-digitization-sample
+git clone https://github.com/NanoNets/nanonets-id-card-digitization.git
+cd nanonets-id-card-digitization
 sudo pip install nanonets
 ```
 
