@@ -16,7 +16,7 @@ Annotations include bounding boxes for each image and have the same name as the 
 
 ** **
 
-# Build a Number Plate Recognition Model
+# Build an ID Card Info Extraction Model
 
 >**Note:** Make sure you have python and pip installed on your system if you don't visit
 [Python](https://www.python.org/downloads/release/python-2714/), 
