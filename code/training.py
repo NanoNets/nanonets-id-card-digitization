@@ -10,9 +10,9 @@ ANNOTATION_DIR = './annotations/json/'
 model = OCR(API_KEY, CATEGORIES)
 
 images = [IMAGE_DIR + x for x in os.listdir(IMAGE_DIR)]
-annotations = [ANNOTATION_DIR + x for x in os.listdir(ANNOTATION_DIR)]
-
 images.sort()
+
+annotations = [ANNOTATION_DIR + x for x in os.listdir(ANNOTATION_DIR)]
 annotations.sort()
 
 training_dict = dict(zip(images, annotations))
