@@ -23,7 +23,7 @@ Annotations include bounding boxes for each image and have the same name as the 
 [pip](https://pip.pypa.io/en/stable/installing/)
 
 <div align="center">
-    <img src="https://github.com/NanoNets/nanonets-id-card-digitization/blob/master/demo/hil-id-card-gif.gif" alt="id-card-digitization-gif" width = "300"/>
+    <img src="https://github.com/NanoNets/nanonets-id-card-digitization/blob/master/demo/hil-id-card-gif.gif" alt="id-card-digitization-gif" width = "500"/>
 </div>
 
 ### Step 1: Clone the Repo, Install dependencies
