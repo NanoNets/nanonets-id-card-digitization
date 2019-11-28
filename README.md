@@ -54,18 +54,13 @@ export NANONETS_MODEL_ID=YOUR_MODEL_ID
 ```
  >_**Note:** you will get YOUR_MODEL_ID from the previous step
 
-### Step 6: Upload the Training Data
-```bash
-python ./code/training.py
-```
-
-### Step 7: Get Model State
+### Step 6: Get Model State
 The model takes ~2 hours to train. You will get an email once the model is trained. In the meanwhile you check the state of the model
 ```bash
 python ./code/model-state.py
 ```
 
-### Step 8: Make Prediction
+### Step 7: Make Prediction
 Once the model is trained. You can make predictions using the model
 ```bash
 python ./code/prediction.py PATH_TO_YOUR_IMAGE.jpg
